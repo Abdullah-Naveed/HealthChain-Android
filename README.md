@@ -6,6 +6,8 @@ Health Chain is an Electronic Health Record (EHR) system which uses blockchain t
 
 ## Getting Started
 
+### Android Application set up:
+
 - Open the FYPHealthChain Application using Android Studio
 - Download and setup ngrok following instructions from https://ngrok.com/download
 - Run ‘./ngrok http 8000’ in your terminal. This will display an ngrok url which you must copy
